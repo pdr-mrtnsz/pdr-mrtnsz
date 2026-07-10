@@ -75,7 +75,7 @@ Estruturação completa de curso EAD, incluindo roteiros didáticos e banco de q
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="30"/>
 </div>
 
-### 🎨 Design e Organização
+### 🎨 Ferramentas e Design
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="30"/>
